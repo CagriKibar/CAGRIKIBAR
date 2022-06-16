@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 # 💫About Me :
 ### <div align="center">I'm Çağrı, Jr. Backend Developer 👨‍💻🚀</div>  
   
@@ -82,7 +81,6 @@
 </div>  
   
 
-<br/>  
 
 
 ## Github Stats  
@@ -92,18 +90,3 @@
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
