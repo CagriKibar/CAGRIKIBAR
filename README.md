@@ -59,7 +59,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="MsSQL" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/48/undefined/microsoft-sql-server.png" alt="MsSQL" height="50" />
   
 </div>
 
